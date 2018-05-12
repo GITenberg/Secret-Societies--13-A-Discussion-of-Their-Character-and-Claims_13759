@@ -1,0 +1,39 @@
+_repo: Secret-Societies--13-A-Discussion-of-Their-Character-and-Claims_13759
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Macdill, David
+    alias: Macdill, D. (David)
+    birthdate: 1826
+    deathdate: 1903
+    gutenberg_agent_id: '5206'
+    url: http://www.gutenberg.org/2009/agents/5206
+  - agent_name: Blanchard, Jonathan
+    alias: Blanchard, J. (Jonathan)
+    birthdate: 1811
+    deathdate: 1892
+    gutenberg_agent_id: '5207'
+    url: http://www.gutenberg.org/2009/agents/5207
+    wikipedia: http://en.wikipedia.org/wiki/Jonathan_Blanchard_%28Wheaton%29
+  - agent_name: Beecher, Edward
+    birthdate: 1803
+    deathdate: 1895
+    gutenberg_agent_id: '5208'
+    url: http://www.gutenberg.org/2009/agents/5208
+description: ''
+gutenberg_issued: '2004-10-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13759'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Secret societies'
+- !lcc 'HS'
+title: 'Secret Societies: A Discussion of Their Character and Claims'
+url: http://www.gutenberg.org/ebooks/13759
